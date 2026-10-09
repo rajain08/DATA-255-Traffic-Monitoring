@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Large datasets & raw archives (do not commit to GitHub)
+data/zip/
+data/raw/
+data/processed/images/
+data/processed/labels/
+*.zip
+
+# Intermediate outputs
+detector_outputs/
+outputs/videos/

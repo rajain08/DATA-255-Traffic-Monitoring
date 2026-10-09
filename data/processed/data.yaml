@@ -1,0 +1,9 @@
+path: /Users/rishjain/Downloads/DATA255/Project/traffic-monitoring/data/processed
+train: images/train
+val: images/val
+test: images/test
+names:
+- car
+- bus
+- van
+- others
