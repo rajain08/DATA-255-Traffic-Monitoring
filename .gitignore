@@ -19,3 +19,11 @@ data/processed/labels/
 # Intermediate outputs
 detector_outputs/
 outputs/videos/
+
+traffic-monitoring/
+venv/
+
+# YOLOv10 baseline outputs and model weights
+runs/
+outputs/yolov10_baseline/
+*.pt

@@ -6,4 +6,6 @@ seaborn>=0.13.0
 scikit-learn>=1.5.0
 PyYAML>=6.0.2
 Pillow>=10.4.0
+ultralytics>=8.4.193
+pycocotools>=2.0.11
 
