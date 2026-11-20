@@ -22,6 +22,7 @@ outputs/videos/
 
 traffic-monitoring/
 venv/
+.venv/
 
 # YOLOv10 baseline outputs and model weights
 runs/
