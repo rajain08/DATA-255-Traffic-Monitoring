@@ -1,0 +1,4 @@
+system,device,fps_batch_1,ms_per_image_batch_1,fps_batched,batched_size,source
+baseline,Tesla T4,65.46342558492184,15.275705343325779,95.67948465670266,16,speed_fps.csv
+p2,Tesla T4,56.32546064184488,17.753960439998384,77.4333973403074,16,speed_fps.csv
+frcnn,Tesla T4,8.813390409413568,113.46371300332976,8.409457269185882,4,frcnn_speed.csv
